@@ -38,7 +38,7 @@ Select Projects:
 Education:
 
 Cloud Engineering Student – ALT School Africa (Current)
-BSC.Industrial Mathemaics – University of Benin,Benin city.
+BSC.Industrial Mathematics – University of Benin,Benin city.
 Ebirebhisi is committed to becoming one of Africa's leading female engineers, driven by a desire to contribute to a future where technology fosters more efficient, sustainable, and connected living.
 
 
