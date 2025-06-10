@@ -13,9 +13,33 @@ Track: Cloud Engineering – ALT School Africa
 
 
  Project Pitch
- envisions a transformed urban landscape where technology, data, and community converge to create more efficient, sustainable, and livable environments for all.
+ 
+ Envisions a transformed urban landscape where technology, data, and community converge to create more efficient, sustainable, and livable environments for all.
 This project will focus on the integration of IoT (Internet of Things), AI, data analytics, green infrastructure, and urban planning to create interconnected ecosystems where transportation, energy, communication, and public services operate in harmony. By reimagining how cities function, we seek to enhance quality of life, reduce environmental impact, and empower communities through equitable access to resources.
 
+professional Bio
+
+Ebirebhisi Moren is a dedicated and proactive Cloud Engineer (Trainee), building a robust skill set at ALT School Africa in the Cloud Engineering track. With a deep enthusiasm for the transformative power of cloud technology, Ebirebhisi focuses on mastering core cloud infrastructure, DevOps methodologies, and system administration.
+
+Skills & Expertise:
+
+Cloud Platforms: AWS EC2,S3, VPC, IAM.
+Web Servers: Nginx,Apache 
+Operating Systems: Ubuntu (Linux Administration)
+Version Control: Git, GitHub
+Frontend: HTML, CSS, Tailwind CSS
+Others- Scripting (Bash/Python), Docker, CI/CD tools, Monitoring.
+
+Select Projects:
+
+'Future of Smart Cities: Urban Innovation, Connected Living': Spearheaded the deployment of a dynamic web application prototype on AWS EC2, demonstrating proficiency in server provisioning, Nginx configuration, and public web hosting.
+ other relevant past projects includes developing a Python script for automated AWS resource and also Contributed to a team project involving containerized application deployment.
+ 
+Education:
+
+Cloud Engineering Student – ALT School Africa (Current)
+BSC.Industrial Mathemaics – University of Benin,Benin city.
+Ebirebhisi is committed to becoming one of Africa's leading female engineers, driven by a desire to contribute to a future where technology fosters more efficient, sustainable, and connected living.
 
 
  Screenshot
