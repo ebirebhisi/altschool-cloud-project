@@ -51,6 +51,9 @@ Ebirebhisi is committed to becoming one of Africa's leading female engineers, dr
   Public IP
 
 > http://54.154.89.106
+>
+> Domain name
+> https://ebirebhisi.ddns.net/
 
 
 ### How It Was Built
@@ -60,15 +63,10 @@ Ebirebhisi is committed to becoming one of Africa's leading female engineers, dr
 3.  **Deployed a Tailwind-based HTML landing page:** A personalized HTML landing page, styled using the Tailwind CSS framework, was deployed to the Nginx web server.
 4.  **Networking & Security:**
     * Traffic was allowed over **Port 80 (HTTP)** to enable web access.
-    * **Port 443 (HTTPS)** was also opened in the security group to allow for future SSL configuration.
+    * **Port 443 (HTTPS)** was also opened in the security group to allow SSL configuration
 
----
+* **Implemented HTTPS with Let's Encrypt SSL:** Acquired and configured an SSL certificate (using Certbot) to enable secure HTTPS access over Port 443, eliminating the "Not secure" warning. This requires a registered domain name which was achieved.
 
-### Future Enhancements / Next Steps
+  
 
-* **Implement HTTPS with Let's Encrypt SSL:** Acquire and configure an SSL certificate (using Certbot) to enable secure HTTPS access over Port 443, eliminating the "Not secure" warning. This requires a registered domain name.
-* **Obtain a Custom Domain:** Register a custom domain name (e.g., `smartcitiesinnovation.com`) and point it to the EC2 instance's public IP address.
-* **Explore Dynamic Content Generation:** Integrate a backend application (e.g., Node.js, Python Flask) with Nginx acting as a reverse proxy, to serve truly dynamic content beyond static HTML.
-
----
 
