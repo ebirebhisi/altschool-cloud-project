@@ -50,7 +50,8 @@ Ebirebhisi is committed to becoming one of Africa's leading female engineers, dr
 
 ## Screenshot
 
-![Secure Screenshot](images/screenshot-secure.png)
+![Screenshot](images/Screenshot%202025-06-12%20110927.png)
+
 
 
 
